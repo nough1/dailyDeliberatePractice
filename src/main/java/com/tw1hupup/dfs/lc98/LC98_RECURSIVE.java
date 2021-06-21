@@ -18,11 +18,6 @@ import java.util.Stack;
 public class LC98_RECURSIVE {
 
 
-
-
-
-
-
     // 中序遍历写法
 
     public boolean isValidBST(TreeNode root){
