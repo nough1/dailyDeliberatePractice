@@ -6,6 +6,7 @@ package com.tw1hupup.greedy;
 
 /**
  * 判断是否可以跳跃到元素的最后一个位置 .
+ * 比较好的学习方式是什么 ？
  * // 分析下来有点像回溯试探的感觉，这种代码不知道怎么写
  * @author guoan.hga
  * @version : LC55.java, v 0.1 2021年06月13日 3:29 下午 guoan.hga Exp $
